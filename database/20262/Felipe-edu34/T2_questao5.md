@@ -13,3 +13,5 @@ Todo teste de validação deve pertencer obrigatoriamente a uma release existent
 Na tabela associativa entre release e tarefa, cada registro deve referenciar obrigatoriamente uma release válida e uma tarefa existente.
 
 Toda squad deve possuir obrigatoriamente ao menos um membro com o papel de líder técnico registrado.
+
+
