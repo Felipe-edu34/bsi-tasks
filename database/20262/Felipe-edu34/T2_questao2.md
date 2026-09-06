@@ -13,3 +13,4 @@ Chen: É representada por um retângulo com borda dupla e o seu relacionamento i
 Pé de Galinha: É representada geralmente por uma caixa com borda padrão, mas o relacionamento com a entidade forte é do tipo identifying (geralmente desenhado com uma linha contínua, onde a chave primária da entidade forte passa a compor a chave primária da entidade fraca).
 
 UML: Pode ser denotada por restrições textuais ou tratada como uma classe dependente associada por composição (losango preto na ponta do todo).
+
