@@ -60,3 +60,5 @@ release_codigo (Chave Estrangeira - FK, referenciando RELEASE)
 RELEASE_TAREFA (Tabela Associativa gerada pelo relacionamento N:M entre RELEASE e TAREFA)
 release_codigo (Chave Primária e Estrangeira - PK/FK, referenciando RELEASE)
 tarefa_codigo (Chave Primária e Estrangeira - PK/FK, referenciando TAREFA)
+
+
