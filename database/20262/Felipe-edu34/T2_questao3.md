@@ -62,4 +62,6 @@ erDiagram
     CLIENTE ||--o{ RELEASE : "recebe"
     SQUAD ||--o{ RELEASE : "planeja"
     RELEASE }|--|{ TAREFA : "agrupa"
-    RELEASE ||--o{ TESTE_VALIDACAO : "passa_por"
+    RELEASE ||--o{ TESTE_VALIDACAO : "passa_por" 
+
+    
